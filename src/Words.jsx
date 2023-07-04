@@ -15,7 +15,7 @@ export function Words() {
           height={0.065}
           curveSegments={12}
         >
-          Mrs. Drashti Virani
+           Prince Virani
           <meshStandardMaterial color={[8, 0.15, 0.8]} emissive={[1, 0.1, 0]} />
         </Text3D>
       </Float>
